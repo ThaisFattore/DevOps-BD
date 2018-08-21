@@ -21,3 +21,9 @@ def soma (lista):
 l=[2,3,6,8,11]
 lst=soma(i)
 print(lst)
+
+
+
+x=0
+s+0
+While <= 10:
